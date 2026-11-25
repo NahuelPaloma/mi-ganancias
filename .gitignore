@@ -1,0 +1,10 @@
+# Datos personales, facturas y respaldos: nunca versionar.
+/data/
+/backups/
+*.log
+.env
+.env.*
+!.env.example
+.DS_Store
+node_modules/
+coverage/
